@@ -14,13 +14,6 @@ I'm a Senior Project Manager with over 8 years of experience leading large-scale
 - **Technical Expertise:** Data analysis, hardware testing, integrated system design
 - **Certifications:** Project Management Professional (PMP)
 
-### 🌎 Key Projects
-- **NASA:** Meteorological systems at launch sites
-- **USGS:** Real-time data collection for surface and groundwater monitoring
-- **Al-Dhafrah Solar Plant, Abu Dhabi:** Deployed 20 weather monitoring stations
-- **Government of Indonesia:** Marine Automatic Weather Stations at 40 locations
-- **UNDP Cambodia:** Hydrological data collection at 50+ sites
-
 ### 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/fiqbal17/)
 
